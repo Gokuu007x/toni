@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DoAn_Web1
 
 Donate? Muốn hỗ trợ mình 1 ly cafe <3 [Donate here](https://github.com/HoangTran0410/HoangTran0410/blob/main/DONATE.md)
@@ -65,3 +66,6 @@ Admin: Đơn hàng
 
 Admin: Người dùng
 ![Trang chủ](./screenshots/Screenshot_12.png)
+=======
+# toni
+>>>>>>> 401c0bbd007f61a25aa64423fa4c6ffb12b91c9a
